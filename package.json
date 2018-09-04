@@ -1,0 +1,26 @@
+{
+  "name": "calendartracker",
+  "version": "1.0.0",
+  "description": "Tracking appliction to create an kiosk styple application linked to a Goole Calendar.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codebygaris/Calendartracker.git"
+  },
+  "keywords": [
+    "Calendar"
+  ],
+  "author": "Michael Garis",
+  "license": "license",
+  "bugs": {
+    "url": "https://github.com/codebygaris/Calendartracker/issues"
+  },
+  "homepage": "https://github.com/codebygaris/Calendartracker#readme",
+  "devDependencies": {
+    "electron": "^2.0.8"
+  }
+}
